@@ -28,4 +28,5 @@
 
 <div align=center> 
   <a href="https://www.linkedin.com/in/caiocastrofrs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/12145770875?si=9ed55d4bf4834975" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
