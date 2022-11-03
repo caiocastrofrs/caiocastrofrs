@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando na área de Front-end
 - 🌱 No momento estudando Typescript, ReactJS e NextJS
-- 👤 Pronouns: Ele/Dele
+- 👤 Pronomes: Ele/Dele
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiocastrofrs&theme=gruvbox)
 
