@@ -1,6 +1,6 @@
 ## Fala fi 👋
 
-- 🔭 Trabalhando na área de Front-end na Arloesitech
+- 🔭 Procurando oportunidades na área de Frontend
 - 🌱 No momento estudando Typescript, ReactJS e NextJS
 - 👤 Pronomes: Ele/Dele
 
